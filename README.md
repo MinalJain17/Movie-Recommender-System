@@ -25,3 +25,7 @@ Provide a list featuring the top 5 recommended movies, each with a displayed log
 ![2](https://github.com/MinalJain17/Movie-Recommender-System/assets/132137245/75be4efe-e6a3-42e8-8331-30217497d0a3)
 
 # Challenges and Learning
+
+1. Exploring Feature Selection Complexity: Exploring the complexities of selecting the right attributes to enhance movie prediction accuracy.
+2. Incorporating the Streamlit library and establishing a virtual environment.
+
