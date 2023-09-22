@@ -10,9 +10,19 @@ Dataset link :  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=
 
 # Data Preprocessing
 
-Utilized Scikit-Learn, nltk, and Pandas libraries to execute comprehensive data pre-processing and model building.
+1. Cleaning  different columns such as cast, crew, overview, keywords, and genres to create one tag column.
+   
+    ![Screenshot (120)](https://github.com/MinalJain17/Movie-Recommender-System/assets/132137245/4d397a7d-40e1-45b0-bdd9-6aad6bf1b2ac)
+
+3. Eliminating Stop Words and Conducting Stemming: Utilizing Scikit-Learn(vectorization) and NLTK to remove stop words and apply stemming.
+   
+    ![Screenshot (121)](https://github.com/MinalJain17/Movie-Recommender-System/assets/132137245/d86f3323-74b2-41b0-bb20-f5bc045fd889)
 
 # Machine Learning Modeling
+
+Developed a recommender function that efficiently suggests the top 5 relevant movies based on cosine similarity. And stored it with the help of a pickle library.
+
+   ![Screenshot (123)](https://github.com/MinalJain17/Movie-Recommender-System/assets/132137245/b80938f1-3da8-4ad2-90b0-c3ccc0c0ea2c)
 
 # Web Page
 
