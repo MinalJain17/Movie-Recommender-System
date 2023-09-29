@@ -4,7 +4,9 @@ The aim of this project is to create a web-based recommendation system that util
 
 # Data Description
 
-Two datasets sourced from Kaggle are employed in this project, both originally obtained from the TMDB website. The first dataset, comprises information such as movie genres, overviews, and taglines. The second dataset, contains details about the cast and crew members associated with each movie.
+Two datasets sourced from Kaggle are employed in this project, both originally obtained from the TMDB website. 
+1. The first dataset, comprises information such as movie genres, overviews, and taglines. 
+2. The second dataset, contains details about the cast and crew members associated with each movie.
 
 Dataset link :  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
